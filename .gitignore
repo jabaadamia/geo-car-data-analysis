@@ -1,0 +1,37 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv/
+venv/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Data files =====
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.pkl
+
+# ===== Large / generated files =====
+*.log
+*.tmp
+*.bak
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Reports & figures (generated) =====
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.svg
