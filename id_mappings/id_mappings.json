@@ -1,0 +1,1824 @@
+{"vehicle_category_mappings": [
+  {
+    "category_id": 1,
+    "title": "Sedan",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 5,
+    "title": "Jeep",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 4,
+    "title": "Coupe",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 2,
+    "title": "Hatchback",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 3,
+    "title": "Universal",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 6,
+    "title": "Cabriolet",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 29,
+    "title": "Pickup",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 30,
+    "title": "Minivan",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 15,
+    "title": "Limousine",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 66,
+    "title": "Сrossover",
+    "vehicle_types": [0]
+  },
+  {
+    "category_id": 36,
+    "title": "Semi-trailer truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 16,
+    "title": "Truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 38,
+    "title": "Dump truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 27,
+    "title": "Agricultural",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 23,
+    "title": "Cranes",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 25,
+    "title": "Excavators",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 20,
+    "title": "Custom machinery",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 19,
+    "title": "Trailer",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 28,
+    "title": "Loader",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 42,
+    "title": "Concrete pump truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 37,
+    "title": "Road",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 44,
+    "title": "Warehouse truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 43,
+    "title": "Compact loader",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 40,
+    "title": "Steam roller",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 14,
+    "title": "Bus",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 39,
+    "title": "Land grader and leveller",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 45,
+    "title": "Refrigerator truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 50,
+    "title": "Evacuator",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 53,
+    "title": "Concrete truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 24,
+    "title": "Bulldozers",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 26,
+    "title": "Construction",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 48,
+    "title": "Goods wagon",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 35,
+    "title": "Commercial car",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 41,
+    "title": "Alternator",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 57,
+    "title": "Camper",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 65,
+    "title": "Fuel truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 61,
+    "title": "Trailer camper",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 49,
+    "title": "Hydraulic hammer",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 71,
+    "title": "Cement Trucks",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 75,
+    "title": "Crane-basket",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 79,
+    "title": "Sewerage Truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 89,
+    "title": "fast-food truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 93,
+    "title": "Water carrier truck",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 95,
+    "title": "Microbus",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 103,
+    "title": "Crane-manipulator",
+    "vehicle_types": [1]
+  },
+  {
+    "category_id": 17,
+    "title": "Motorcycle",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 31,
+    "title": "Scooter",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 33,
+    "title": "Quad bike",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 21,
+    "title": "Water transport",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 47,
+    "title": "Tricycle",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 46,
+    "title": "Buggy",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 32,
+    "title": "Snowmobile",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 83,
+    "title": "Trailer for boat",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 87,
+    "title": "Trailer for motorcycle",
+    "vehicle_types": [2]
+  },
+  {
+    "category_id": 99,
+    "title": "Karting-car",
+    "vehicle_types": [2]
+  }
+],
+"manufacturer_mappings":
+[
+  {
+    "man_id": 473,
+    "title": " Arcfox",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 70,
+    "title": "Acura",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 642,
+    "title": "Aion",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1355,
+    "title": "AIQAR",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1467,
+    "title": "Aito",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1,
+    "title": "Alfa Romeo",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 441,
+    "title": "AMC",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 76,
+    "title": "Aston Martin",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 2,
+    "title": "Audi",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1503,
+    "title": "Avatar",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1181,
+    "title": "Avatr",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 400,
+    "title": "Baic",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1499,
+    "title": "Baojun",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1521,
+    "title": "Baw",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 78,
+    "title": "Bentley",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1552,
+    "title": "Bertone",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 3,
+    "title": "BMW",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 207,
+    "title": "Brilliance",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 374,
+    "title": "Bugatti",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 69,
+    "title": "Buick",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 87,
+    "title": "BYD",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 4,
+    "title": "Cadillac",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 161,
+    "title": "Changan",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 90,
+    "title": "Changfeng",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 84,
+    "title": "Chery",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 5,
+    "title": "Chevrolet",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 6,
+    "title": "Chrysler",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 7,
+    "title": "Citroen",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 237,
+    "title": "CPI",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 457,
+    "title": "Dacia",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 8,
+    "title": "Daewoo",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 9,
+    "title": "Daihatsu",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 537,
+    "title": "Datsun",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1237,
+    "title": "Dayun",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 244,
+    "title": "DM Telai",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 10,
+    "title": "Dodge",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 146,
+    "title": "Dongfeng",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 778,
+    "title": "DS Automobiles",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 991,
+    "title": "Exeed",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 360,
+    "title": "FAW",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 74,
+    "title": "Ferrari",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 11,
+    "title": "Fiat",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 183,
+    "title": "Fisker",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 12,
+    "title": "Ford",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1347,
+    "title": "Forthing",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 143,
+    "title": "Foton",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1588,
+    "title": "GAC",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 45,
+    "title": "GAZ",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 89,
+    "title": "Geely",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 577,
+    "title": "Genesis",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 13,
+    "title": "GMC",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1287,
+    "title": "Gonow",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 138,
+    "title": "Great wall",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 130,
+    "title": "Hafei",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 176,
+    "title": "Haval",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 639,
+    "title": "Hiphi",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 14,
+    "title": "Honda",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 485,
+    "title": "Hongqi",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 489,
+    "title": "Huawei",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1177,
+    "title": "Huawei Inside",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 15,
+    "title": "Hummer",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1646,
+    "title": "Hycan",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 167,
+    "title": "Hyster",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 16,
+    "title": "Hyundai",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 1351,
+    "title": "IM Motors",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 53,
+    "title": "Infiniti",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 422,
+    "title": "Iran Khodro",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 17,
+    "title": "Isuzu",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 62,
+    "title": "Iveco",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1249,
+    "title": "Izh",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 85,
+    "title": "JAC",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 18,
+    "title": "Jaguar",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 19,
+    "title": "Jeep",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 635,
+    "title": "Jetour",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 159,
+    "title": "Karsan",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 20,
+    "title": "Kia",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 73,
+    "title": "Lamborghini",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 21,
+    "title": "Lancia",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 22,
+    "title": "Land Rover",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1455,
+    "title": "Leapmotor",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 23,
+    "title": "Lexus",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 162,
+    "title": "Lifan",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 58,
+    "title": "Lincoln",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 615,
+    "title": "Linde",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 493,
+    "title": "Lixiang",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 401,
+    "title": "Lonking",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 341,
+    "title": "Lotus",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 377,
+    "title": "LTI",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1556,
+    "title": "Lucid",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1261,
+    "title": "Lynk & Co",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1443,
+    "title": "Mahindra",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 75,
+    "title": "Maserati",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1479,
+    "title": "Maxus",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 80,
+    "title": "Maybach",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 24,
+    "title": "Mazda",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 403,
+    "title": "Mclaren",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 25,
+    "title": "Mercedes-Benz",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 26,
+    "title": "Mercury",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 166,
+    "title": "MG",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 28,
+    "title": "Mini",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 29,
+    "title": "Mitsubishi",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 553,
+    "title": "Mitsuoka",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 48,
+    "title": "Moskvich",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1411,
+    "title": "MPM",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 814,
+    "title": "Neta",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 179,
+    "title": "Niewiadow",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 603,
+    "title": "NIO",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 30,
+    "title": "Nissan",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 56,
+    "title": "Oldsmobile",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1439,
+    "title": "OMODA",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 31,
+    "title": "Opel",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 32,
+    "title": "Peugeot",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 1209,
+    "title": "Polestar",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 54,
+    "title": "Pontiac",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 33,
+    "title": "Porsche",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 410,
+    "title": "Proton",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 34,
+    "title": "Renault",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 786,
+    "title": "Renault Samsung",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1399,
+    "title": "Rivian",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 88,
+    "title": "Roewe",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 79,
+    "title": "Rolls-Royce",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 35,
+    "title": "Rover",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 36,
+    "title": "Saab",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 77,
+    "title": "Saleen",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 93,
+    "title": "Saturn",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 55,
+    "title": "Scion",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 37,
+    "title": "Seat",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1323,
+    "title": "Sena",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 38,
+    "title": "Skoda",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1016,
+    "title": "Skywell ",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 424,
+    "title": "Smart",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 397,
+    "title": "Soueast",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 64,
+    "title": "Ssangyong",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 39,
+    "title": "Subaru",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1548,
+    "title": "Sunbeam",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 40,
+    "title": "Suzuki",
+    "vehicle_types": [0, 1, 2]
+  },
+  {
+    "man_id": 1491,
+    "title": "Tank",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 92,
+    "title": "Tata",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 155,
+    "title": "Tesla",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 41,
+    "title": "Toyota",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 95,
+    "title": "UAZ",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1639,
+    "title": "Vanderhall",
+    "vehicle_types": [0, 2]
+  },
+  {
+    "man_id": 1379,
+    "title": "Vauxhall",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 44,
+    "title": "VAZ",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 42,
+    "title": "Volkswagen",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 43,
+    "title": "Volvo",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 481,
+    "title": "Voyah",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1495,
+    "title": "Wey",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 1471,
+    "title": "Wuling ",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 1241,
+    "title": "Xiaomi",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 158,
+    "title": "Xingtai",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 497,
+    "title": "Xpeng",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 390,
+    "title": "YTO",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 591,
+    "title": "Yuanxin Energy's",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 97,
+    "title": "ZAZ",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "man_id": 477,
+    "title": "Zeekr",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 549,
+    "title": "Zukida",
+    "vehicle_types": [0]
+  },
+  {
+    "man_id": 376,
+    "title": "Zxauto",
+    "vehicle_types": [0]
+  }
+],
+"location_mappings":
+[
+  {
+    "location_id": 2,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tbilisi"
+  },
+  {
+    "location_id": 3,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kutaisi"
+  },
+  {
+    "location_id": 4,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Batumi"
+  },
+  {
+    "location_id": 7,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Poti"
+  },
+  {
+    "location_id": 15,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Rustavi"
+  },
+  {
+    "location_id": 30,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Rustavi Car Market"
+  },
+  {
+    "location_id": 113,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Caucasus Auto Market"
+  },
+  {
+    "location_id": 53,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Dusheti"
+  },
+  {
+    "location_id": 39,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kaspi"
+  },
+  {
+    "location_id": 38,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Borjomi"
+  },
+  {
+    "location_id": 37,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Akhmeta"
+  },
+  {
+    "location_id": 36,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Zestaphoni"
+  },
+  {
+    "location_id": 40,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Sagarejo"
+  },
+  {
+    "location_id": 41,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kobuleti"
+  },
+  {
+    "location_id": 44,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Gurjaani"
+  },
+  {
+    "location_id": 31,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Akhaltsikhe"
+  },
+  {
+    "location_id": 5,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Sokhumi"
+  },
+  {
+    "location_id": 47,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Martvili"
+  },
+  {
+    "location_id": 48,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Chiatura"
+  },
+  {
+    "location_id": 52,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Chkhorotsku"
+  },
+  {
+    "location_id": 8,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Telavi"
+  },
+  {
+    "location_id": 54,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Lagodekhi"
+  },
+  {
+    "location_id": 16,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Mtskheta"
+  },
+  {
+    "location_id": 6,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tskhinvali"
+  },
+  {
+    "location_id": 14,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Akhalkalaki"
+  },
+  {
+    "location_id": 13,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Gori"
+  },
+  {
+    "location_id": 12,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Khashuri"
+  },
+  {
+    "location_id": 11,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Ambrolauri"
+  },
+  {
+    "location_id": 10,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Ozurgeti"
+  },
+  {
+    "location_id": 9,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Zugdidi"
+  },
+  {
+    "location_id": 21,
+    "parent_id": 29,
+    "flag": "us.svg",
+    "title": "USA"
+  },
+  {
+    "location_id": 55,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Senaki"
+  },
+  {
+    "location_id": 56,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Sighnaghi"
+  },
+  {
+    "location_id": 19,
+    "parent_id": 29,
+    "flag": "de.svg",
+    "title": "Germany"
+  },
+  {
+    "location_id": 57,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kareli"
+  },
+  {
+    "location_id": 22,
+    "parent_id": 29,
+    "flag": "jp.svg",
+    "title": "Japan"
+  },
+  {
+    "location_id": 59,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Marneuli"
+  },
+  {
+    "location_id": 33,
+    "parent_id": 29,
+    "flag": "eu.svg",
+    "title": "Europe"
+  },
+  {
+    "location_id": 58,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Gardabani"
+  },
+  {
+    "location_id": 45,
+    "parent_id": 29,
+    "flag": "fr.svg",
+    "title": "France"
+  },
+  {
+    "location_id": 35,
+    "parent_id": 29,
+    "flag": "ae.svg",
+    "title": "Dubai"
+  },
+  {
+    "location_id": 60,
+    "parent_id": 29,
+    "flag": "kr.svg",
+    "title": "South Korea"
+  },
+  {
+    "location_id": 42,
+    "parent_id": 29,
+    "flag": "it.svg",
+    "title": "Italy"
+  },
+  {
+    "location_id": 20,
+    "parent_id": 29,
+    "flag": "nl.svg",
+    "title": "Netherlands"
+  },
+  {
+    "location_id": 43,
+    "parent_id": 29,
+    "flag": "ie.svg",
+    "title": "Ireland"
+  },
+  {
+    "location_id": 32,
+    "parent_id": 29,
+    "flag": "gb.svg",
+    "title": "England"
+  },
+  {
+    "location_id": 46,
+    "parent_id": 29,
+    "flag": "es.svg",
+    "title": "Spain"
+  },
+  {
+    "location_id": 28,
+    "parent_id": 29,
+    "flag": "ru.svg",
+    "title": "Russia"
+  },
+  {
+    "location_id": 23,
+    "parent_id": 0,
+    "flag": "0",
+    "title": "On way to Georgia"
+  },
+  {
+    "location_id": 1,
+    "parent_id": 0,
+    "flag": "ge.svg",
+    "title": "Georgia"
+  },
+  {
+    "location_id": 29,
+    "parent_id": 0,
+    "flag": "0",
+    "title": "Abroad"
+  },
+  {
+    "location_id": 24,
+    "parent_id": 29,
+    "flag": "0",
+    "title": "Other"
+  },
+  {
+    "location_id": 61,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Samtredia"
+  },
+  {
+    "location_id": 62,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Mestia"
+  },
+  {
+    "location_id": 63,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Sachkhere"
+  },
+  {
+    "location_id": 64,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Khobi"
+  },
+  {
+    "location_id": 65,
+    "parent_id": 29,
+    "flag": "ua.svg",
+    "title": "Ukraine"
+  },
+  {
+    "location_id": 66,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tianeti"
+  },
+  {
+    "location_id": 69,
+    "parent_id": 29,
+    "flag": "cn.svg",
+    "title": "China"
+  },
+  {
+    "location_id": 70,
+    "parent_id": 29,
+    "flag": "ca.svg",
+    "title": "Canada"
+  },
+  {
+    "location_id": 71,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "POTI \"ECZ\""
+  },
+  {
+    "location_id": 72,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "BATUMI \"ECZ\""
+  },
+  {
+    "location_id": 74,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kvareli"
+  },
+  {
+    "location_id": 75,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tkibuli"
+  },
+  {
+    "location_id": 76,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Dedoplistskaro"
+  },
+  {
+    "location_id": 77,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Oni"
+  },
+  {
+    "location_id": 78,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Bolnisi"
+  },
+  {
+    "location_id": 79,
+    "parent_id": 29,
+    "flag": "tr.svg",
+    "title": "Turkey"
+  },
+  {
+    "location_id": 80,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tskaltubo"
+  },
+  {
+    "location_id": 81,
+    "parent_id": 1,
+    "flag": "-1",
+    "title": "Tetritskaro"
+  },
+  {
+    "location_id": 82,
+    "parent_id": 1,
+    "flag": "-1",
+    "title": "Tianeti"
+  },
+  {
+    "location_id": 83,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Kharagauli"
+  },
+  {
+    "location_id": 84,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tsalka"
+  },
+  {
+    "location_id": 85,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tsalenjikha"
+  },
+  {
+    "location_id": 86,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tserovani"
+  },
+  {
+    "location_id": 87,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Lanchkhuti"
+  },
+  {
+    "location_id": 88,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Sartichala"
+  },
+  {
+    "location_id": 91,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Khoni"
+  },
+  {
+    "location_id": 93,
+    "parent_id": 29,
+    "flag": "pl.svg",
+    "title": "Poland"
+  },
+  {
+    "location_id": 96,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Ninotsminda"
+  },
+  {
+    "location_id": 97,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Aspindza"
+  },
+  {
+    "location_id": 101,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Abasha"
+  },
+  {
+    "location_id": 109,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Tsageri"
+  },
+  {
+    "location_id": 116,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Chakvi"
+  },
+  {
+    "location_id": 119,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Chokhatauri"
+  },
+  {
+    "location_id": 122,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Terjola"
+  },
+  {
+    "location_id": 125,
+    "parent_id": 29,
+    "flag": "am.svg",
+    "title": "Armenia"
+  },
+  {
+    "location_id": 127,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Lechkhumi"
+  },
+  {
+    "location_id": 131,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Dmanisi"
+  },
+  {
+    "location_id": 133,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Ureki"
+  },
+  {
+    "location_id": 137,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Gudauri"
+  },
+  {
+    "location_id": 139,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Vani"
+  },
+  {
+    "location_id": 143,
+    "parent_id": 1,
+    "flag": "ge.svg",
+    "title": "Baghdadi"
+  }
+],
+"transmission_type_mappings":
+[
+  {
+    "id": 1,
+    "title": "Manual",
+    "geo": "მექანიკა"
+  },
+  {
+    "id": 2,
+    "title": "Automatic",
+    "geo": "ავტომატიკა"
+  },
+  {
+    "id": 3,
+    "title": "Tiptronic",
+    "geo": "ტიპტრონიკი"
+  },
+  {
+    "id": 4,
+    "title": "Variator",
+    "geo": "ვარიატორი"
+  }
+],
+"color_mappings":
+[
+  {
+    "color_id": 1,
+    "color_code": "#FFFFFF",
+    "title": "White"
+  },
+  {
+    "color_id": 16,
+    "color_code": "#000000",
+    "title": "Black"
+  },
+  {
+    "color_id": 12,
+    "color_code": "#E0E0E0",
+    "title": "Silver"
+  },
+  {
+    "color_id": 13,
+    "color_code": "#7F7F7F",
+    "title": "Grey"
+  },
+  {
+    "color_id": 8,
+    "color_code": "#EB4137",
+    "title": "Red"
+  },
+  {
+    "color_id": 14,
+    "color_code": "#3B8AFF",
+    "title": "Blue"
+  },
+  {
+    "color_id": 4,
+    "color_code": "#F4D053",
+    "title": "Yellow"
+  },
+  {
+    "color_id": 5,
+    "color_code": "#1BAC18",
+    "title": "Green"
+  },
+  {
+    "color_id": 9,
+    "color_code": "#FF7A29",
+    "title": "Orange"
+  },
+  {
+    "color_id": 6,
+    "color_code": "#D4AF37",
+    "title": "Golden"
+  },
+  {
+    "color_id": 19,
+    "color_code": "#8C3BF0",
+    "title": "Violet"
+  },
+  {
+    "color_id": 18,
+    "color_code": "#EC6CC8",
+    "title": "Pink"
+  },
+  {
+    "color_id": 2,
+    "color_code": "#EDE1D3",
+    "title": "Beige"
+  },
+  {
+    "color_id": 11,
+    "color_code": "#990000",
+    "title": "Carnelian red"
+  },
+  {
+    "color_id": 3,
+    "color_code": "#A2D2FF",
+    "title": "Sky blue"
+  },
+  {
+    "color_id": 7,
+    "color_code": "#926644",
+    "title": "Brown"
+  }
+],
+"drive_type_mappings":
+[
+  {
+    "drive_type_id": 1,
+    "title": "Front",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "drive_type_id": 2,
+    "title": "Rear",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "drive_type_id": 3,
+    "title": "4x4",
+    "vehicle_types": [0, 1]
+  },
+  {
+    "drive_type_id": 4,
+    "title": "4X2",
+    "vehicle_types": [1]
+  },
+  {
+    "drive_type_id": 5,
+    "title": "6X4",
+    "vehicle_types": [1]
+  },
+  {
+    "drive_type_id": 6,
+    "title": "8X4",
+    "vehicle_types": [1]
+  }
+],
+"fuel_type_mappings":
+[
+  {
+    "fuel_type_id": 2,
+    "parent_id": 0,
+    "title": "Petrol"
+  },
+  {
+    "fuel_type_id": 3,
+    "parent_id": 0,
+    "title": "Diesel"
+  },
+  {
+    "fuel_type_id": 7,
+    "parent_id": 0,
+    "title": "Electric"
+  },
+  {
+    "fuel_type_id": 11,
+    "parent_id": 0,
+    "title": "Hybrid"
+  },
+  {
+    "fuel_type_id": 6,
+    "parent_id": 11,
+    "title": "Hybrid"
+  },
+  {
+    "fuel_type_id": 10,
+    "parent_id": 11,
+    "title": "Plug-in Hybrid"
+  },
+  {
+    "fuel_type_id": 5,
+    "parent_id": 0,
+    "title": "Gas/Petrol"
+  },
+  {
+    "fuel_type_id": 9,
+    "parent_id": 5,
+    "title": "LPG"
+  },
+  {
+    "fuel_type_id": 8,
+    "parent_id": 5,
+    "title": "CNG"
+  },
+  {
+    "fuel_type_id": 12,
+    "parent_id": 0,
+    "title": "Hydrogen"
+  }
+]
+}
