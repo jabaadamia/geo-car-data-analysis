@@ -14,7 +14,7 @@ venv/
 
 # ===== Data files =====
 data/raw/
-data/processed/*.csv
+#data/processed/*.csv
 data/processed/*.parquet
 data/processed/*.pkl
 
