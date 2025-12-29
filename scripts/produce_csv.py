@@ -2,7 +2,7 @@
 produces csv file of about 60k cars from raw jl file
 then, removes unnecessary columns.
 input: cars_data.jl with 118 cols
-output: cars_60k.csv with 35 cols
+output: cars_60k.csv with 31 cols
 """
 
 import json
@@ -89,8 +89,6 @@ good_cols = [
     'model_id',
     'price',
     'predicted_price',
-    'pred_min_price',
-    'pred_max_price',
     'fuel_type_id', 
     'gear_type_id', 
     'drive_type_id',
@@ -110,13 +108,11 @@ good_cols = [
     'tech_inspection',
     'has_turbo',
     'right_wheel', 
-    'vehicle_type', 
+    'vehicle_type', # 0= cars, 1= spec
     'category_id',
-    'views',
-    'saloon_material_id',
     'start_stop',
     'back_camera',
-    'user_type',  # 1= dealer, 2= private
+    'user_type',  # 1= dealer, 0= private
     'comfort_features',
 ]
 
