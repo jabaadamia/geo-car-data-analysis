@@ -35,3 +35,5 @@ Thumbs.db
 reports/figures/*.png
 reports/figures/*.jpg
 reports/figures/*.svg
+
+models/
