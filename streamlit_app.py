@@ -3,7 +3,6 @@ import pandas as pd
 import json
 import joblib
 import os
-import numpy as np
 
 # Page Config
 st.set_page_config(
@@ -57,7 +56,7 @@ def load_data():
     model_rf = joblib.load(os.path.join(models_dir, 'random_forest_model.pkl'))
     
     # Load Mappings JSON
-    with open(os.path.join(mappings_dir, 'id_mappings.json'), 'r') as f:
+    with open(os.path.join(mappings_dir, 'id_mappings.json'), 'r', encoding="utf-8") as f:
         id_mappings = json.load(f)
         
     return feature_columns, scaler, freq_man, freq_model, model_rf, id_mappings
